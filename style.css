@@ -1,0 +1,12 @@
+div.wrapper{
+    width: 100%;
+    max-width: 500px;
+    background: linear-gradient(#df9041,#f34e4e88);
+    margin: 0 auto;
+}
+div.wrapper>div img{
+    width: 100%;
+    height: 60vh;
+   
+
+}
